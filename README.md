@@ -32,6 +32,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-##Mockup
+## Mockup
+
 <img src= "https://github.com/ThomasCerr/Challenge-1_TC/blob/main/assets/images/example-picture.png">
 
