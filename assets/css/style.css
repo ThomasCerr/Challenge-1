@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Benefits */
 
 .benefits {
     margin-right: 20px;
@@ -103,6 +109,8 @@ p {
     max-width: 150px;
 }
 
+/* SEO's */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,7 +119,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
@@ -123,7 +130,7 @@ p {
     font-size: 36px;
 }
 
-
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
