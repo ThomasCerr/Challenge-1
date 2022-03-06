@@ -33,5 +33,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-<img src "https://github.com/ThomasCerr/Challenge-1_TC/blob/main/assets/images/example-picture.png">
+<img src= "https://github.com/ThomasCerr/Challenge-1_TC/blob/main/assets/images/example-picture.png">
 
